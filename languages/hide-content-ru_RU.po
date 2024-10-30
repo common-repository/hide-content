@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hide Content\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Дмитрий <webmaster.odessa@gmail.com>\n"
+"Language-Team: School-WP <info@school-wp.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru_RU\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# Copyright (C) 2014 School-wp
+msgid "To view please log in!"
+msgstr "Для просмотра необходимо авторизоваться!"
+
+msgid "Sign Up"
+msgstr "Регистрация"
+
+msgid "Log In"
+msgstr "Вход"
